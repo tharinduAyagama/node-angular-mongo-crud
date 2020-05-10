@@ -1,1 +1,0 @@
-# node-angular-mongo-crud
